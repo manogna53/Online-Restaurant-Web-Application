@@ -1,4 +1,5 @@
 🍽️ Online Restaurant Web Application
+
 📌 Project Overview
 
 This project is an Online Restaurant Web Application developed using Django.
@@ -7,17 +8,20 @@ It allows users to browse food items, customize orders, add items to cart, and p
 The main goal of this project is to simulate a real-world food ordering system with basic functionalities.
 
 🚀 Features
+
 👤 User Registration and Login
 🍕 Browse Menu Items
 ➕ Add Items to Cart
 🧀 Customize Food with Toppings
 🛒 Cart Management
 📦 Order Placement System
+
 🛠️ Technologies Used
 Backend: Python, Django
 Frontend: HTML, CSS, JavaScript
 Database: SQLite
 Framework Architecture: MVT (Model-View-Template)
+
 🧩 Project Structure
 OnlineRestaurantWebApp/
 │
@@ -63,6 +67,7 @@ Start the server:
 python manage.py runserver
 Open browser and go to:
 http://127.0.0.1:8000/
+
 🔐 Authentication
 Users can register and login
 Django’s built-in authentication system is used
@@ -72,10 +77,12 @@ Selects food item
 Adds toppings (optional)
 Adds item to cart
 Views cart and places order
+
 🗄️ Database
 Managed using Django Models
 Uses SQLite by default
 Data stored using Django ORM
+
 📈 Future Enhancements
 💳 Online Payment Integration
 📍 Order Tracking System
